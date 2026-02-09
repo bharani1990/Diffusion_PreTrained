@@ -1,6 +1,6 @@
 import torch
 import torchaudio
-from diffusers import DiffusionPipeline
+from diffusers.pipelines.pipeline_utils import DiffusionPipeline
 import soundfile as sf
 import librosa
 import numpy as np

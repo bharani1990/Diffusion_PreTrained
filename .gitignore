@@ -8,3 +8,11 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Data Folder
+data/*
+
+# Logs and checkpoints
+logs/
+checkpoints/
+

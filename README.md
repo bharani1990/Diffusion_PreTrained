@@ -1,1 +1,3 @@
-# Diffusion Based Pre-Trained Model --> Neural Audio Coder
+# Encodec Pre-Trained Model --> Neural Audio Coder on Librispeech data without any training
+
+
